@@ -1,6 +1,6 @@
 import React from "react";
-import Card from "./card";
-import Nav from "./nav";
+import Card from "./Card";
+import Nav from "./Nav";
 
 const Project = () => {
   return (
