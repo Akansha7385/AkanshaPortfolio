@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Nav from "./nav";
+import Nav from "./Nav";
 
 const Home = () => {
   const greetings = ["Hello 👋", "Namaste 🙏", "Hola ✨", "Bonjour 🌟"];
